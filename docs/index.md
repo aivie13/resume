@@ -1,30 +1,22 @@
 ---
 layout: cv
-title: Brigham Young's Resume
+title: Aaron Ivie's Resume
 ---
-# Brigham Young
-The second prophet of The Church of Jesus Christ of Latter-day Saints.
-
-<div id="webaddress">
-<a href="datascience@byui.edu">datascience@byui.edu</a>
-| <a href="https://byuidatascience.github.io/development.html">Data Science Program</a>
-| <a href="https://www.linkedin.com/groups/13537407/">LinkedIn</a>
-| <a href="https://github.com/byuids-resumes">GitHub</a>
-</div>
-
-<!-- https://www.monique.tech/the-art-of-markdown -->
+# Aaron Ivie
++1 (856) 214-9013 | <a href= "">aaronmivie@gmail.com</a> | <a href="www.linkedin.com/in/aaron-ivie-740865202">LinkedIn</a>
 
 ## Education
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
+`September 2011 - June 2016`
+__Fox Chapel Area High School__, Pittsburgh, PA
 
-- Full academic scholarship with 4.0 GPA
+- High School Diploma with 3.6 GPA
 
-`Expected 2029`
+`2017 - Expected 2022`
 __Brigham Young University - Idaho__, Rexburg, ID
 
-- 4.0 Major GPA
+- 3.75 Major GPA
+- Bachelor's in Computer Science
 
 
 ## Related Experience
